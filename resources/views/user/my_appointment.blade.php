@@ -9,7 +9,7 @@
 
   <meta name="copyright" content="MACode ID, https://macodeid.com/">
 
-  <title>Hospital</title>
+  <title>One-Health</title>
 
   <link rel="stylesheet" href="../assets/css/maicons.css">
 

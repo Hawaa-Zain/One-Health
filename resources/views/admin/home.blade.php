@@ -14,7 +14,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+
+  <title>One-Health</title>
+
    @include('admin.css')
+   
   </head>
   
 
